@@ -1,1 +1,1 @@
-# Crop-Diseases-Detection-
+# Crop Health Monitoring and Disease Detection
