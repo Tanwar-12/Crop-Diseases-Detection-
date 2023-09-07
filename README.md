@@ -2,6 +2,7 @@
 
 ## Overview:
 The purpose of this project is to create a deep learning model for crop detection using YOLOv5. Crop detection technology can be valuable for various applications in agriculture, such as monitoring crop health, yield prediction, and pest detection.
+
 ![image](https://github.com/Tanwar-12/Crop-Diseases-Detection-/assets/110081008/3110ba8f-d6c4-4fab-b8b7-452319b4b57d)
 
 📁 Dataset:
